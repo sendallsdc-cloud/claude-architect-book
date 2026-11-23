@@ -5,5 +5,3 @@ Claude Certified Architect – Foundations(CCAR-F) 시험의 다섯 도메인을
 시험 직전 압축 요약이 아니라 에이전트 루프, 도구 설계, MCP 서버 제작, 평가 파이프라인을 한 권에서 끝까지 다룹니다. 실무 개발자와 기획자는 시험을 보지 않아도 읽을 수 있도록 읽기 경로를 세 갈래로 나눴습니다.
 
 기준일은 2026년 11월입니다. 이 책은 Anthropic과 제휴하거나 후원받지 않은 비공식 도서입니다.
-
-집필 문의: sendallsdc@gmail.com
