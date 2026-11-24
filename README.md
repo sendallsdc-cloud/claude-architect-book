@@ -1,6 +1,6 @@
 # Claude 아키텍트: 자격을 넘어 프로덕션까지
 
-![Claude 아키텍트: 자격을 넘어 프로덕션까지 표지](./assets/cover.png)
+![Claude 아키텍트: 자격을 넘어 프로덕션까지 표지](https://raw.githubusercontent.com/sendallsdc-cloud/claude-architect-book/main/assets/cover.png)
 
 Claude Certified Architect – Foundations(CCAR-F) 시험의 다섯 도메인을 공식 시험 가이드와 1:1로 매핑한 한국어 학습서이자, 같은 개념을 실제 시스템 설계로 확장하는 실무서입니다.
 
